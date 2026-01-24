@@ -1,0 +1,13 @@
+Subject: Luna Theme Restoration Pack (Installation Guide)
+This build is designed for convenience and to bring back the classic Luna theme.
+Important: Before installing UltraUXThemePatcher, create a restore point. There is a minimal risk of system instability, but don't panic — it's not critical. If anything goes wrong, you just need to boot into Safe Mode to fix it.
+Installation Steps:
+To apply the themes, copy the entire contents of the "Themes" folder to C:\Windows\Resources\Themes.
+You must install OldNewExplorer and RetroShell to restore the classic taskbar.
+Custom wallpapers can be found in the Wallpapers folder within the download.
+To enable classic cursors: Press Win + I, go to Personalization > Themes > Mouse Cursor. Set the scheme to "None".
+Finally, install all apps from the Personaliz and Fast folders. Personaliz is what specifically handles the Luna theme elements.
+
+
+
+I originally made this build for my family, who absolutely hate Windows 10. Once I finished it, I decided to share it with all of you. If you’re reading this, respect to you — you're a true attentive gigachad.
