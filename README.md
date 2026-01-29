@@ -1,4 +1,6 @@
-# PSDK_XP-LunaExtraPack
-This pack is a free Windows XP transformation skin for Windows 10, meant to replace WindowBlinds. It’s 100% safe and virus-free. Feel free to check it on VirusTotal, Dr.Web, or Kaspersky. Note: the transformation might not be 100% complete.
-![Uploading WinXPextraLunaPack.png…]()
-
+<div align="center">
+  <h3>Project Trailer</h3>
+  <video src="https://github.com/PSDKXP/PSDK_XP-LunaExtraPack/releases/download/old_windows/LunaExtraTheme.mp4" width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
+</div>
